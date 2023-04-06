@@ -3,7 +3,7 @@ QT -= gui
 
 CONFIG += c++11
 
-TARGET = array_method
+TARGET = ArrayAndNumbers
 CONFIG += console
 CONFIG -= app_bundle
 
